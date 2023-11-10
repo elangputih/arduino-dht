@@ -1,7 +1,5 @@
-/* How to use the DHT-22 sensor with Arduino uno
-   Temperature and humidity sensor 
-   BASIT ABDUL
-*/
+//   BASIT ABDUL
+
 
 //Libraries
 #include <DHT.h>;
